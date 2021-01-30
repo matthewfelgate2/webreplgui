@@ -9,5 +9,5 @@ Install webrepl
 
 Run with `python3 webreplgui.py`
 
-![screenshot](https://github.com/matthewfelgate2/webreplgui/images/Screenshot from 2021-01-30 12-54-14.png)
+![screenshot](https://github.com/matthewfelgate2/webreplgui/blob/main/images/Screenshot%20from%202021-01-30%2012-54-14.png)
 
